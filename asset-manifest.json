@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Spicy-Food/static/css/main.52ce3f10.css",
+    "main.js": "/Spicy-Food/static/js/main.1402cad6.js",
+    "static/js/453.091f7659.chunk.js": "/Spicy-Food/static/js/453.091f7659.chunk.js",
+    "static/media/mexican.png": "/Spicy-Food/static/media/mexican.7ed56a7983041054db23.png",
+    "static/media/italian.png": "/Spicy-Food/static/media/italian.c5226bf0866418762711.png",
+    "static/media/sea.png": "/Spicy-Food/static/media/sea.751c260f81dd895db70d.png",
+    "static/media/chicken.png": "/Spicy-Food/static/media/chicken.15fc3e56b6b21ed587b7.png",
+    "static/media/steak.png": "/Spicy-Food/static/media/steak.285a85ea395668b8318c.png",
+    "static/media/product.jpg": "/Spicy-Food/static/media/product.5d00f6960e7557de00ce.jpg",
+    "static/media/potato.png": "/Spicy-Food/static/media/potato.317f30182e5e55733292.png",
+    "static/media/bg3.jpg": "/Spicy-Food/static/media/bg3.cfcea9cd7906f61a06e3.jpg",
+    "static/media/bg5.jpg": "/Spicy-Food/static/media/bg5.65cd7dbf4a750f413b84.jpg",
+    "static/media/bg4.jpg": "/Spicy-Food/static/media/bg4.cb498900dcf8e798b8d5.jpg",
+    "static/media/Aldhabi.ttf": "/Spicy-Food/static/media/Aldhabi.28f9841a4f2619850400.ttf",
+    "static/media/story1.jpeg": "/Spicy-Food/static/media/story1.880895962a408d9878f3.jpeg",
+    "static/media/SilverForteGrunge.ttf": "/Spicy-Food/static/media/SilverForteGrunge.c7bfd8bbdbc87420ae74.ttf",
+    "static/media/logo.png": "/Spicy-Food/static/media/logo.41516c75c96dab51a932.png",
+    "static/media/story2.jpeg": "/Spicy-Food/static/media/story2.7316817faa20ff92f86f.jpeg",
+    "static/media/story3.jpeg": "/Spicy-Food/static/media/story3.7316817faa20ff92f86f.jpeg",
+    "index.html": "/Spicy-Food/index.html",
+    "main.52ce3f10.css.map": "/Spicy-Food/static/css/main.52ce3f10.css.map",
+    "main.1402cad6.js.map": "/Spicy-Food/static/js/main.1402cad6.js.map",
+    "453.091f7659.chunk.js.map": "/Spicy-Food/static/js/453.091f7659.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52ce3f10.css",
+    "static/js/main.1402cad6.js"
+  ]
+}
