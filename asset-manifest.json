@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Spicy-Food/static/css/main.1525f1e3.css",
-    "main.js": "/Spicy-Food/static/js/main.4b250312.js",
+    "main.css": "/Spicy-Food/static/css/main.bd95db30.css",
+    "main.js": "/Spicy-Food/static/js/main.c18ebd10.js",
     "static/js/453.091f7659.chunk.js": "/Spicy-Food/static/js/453.091f7659.chunk.js",
     "static/media/Aldhabi.ttf": "/Spicy-Food/static/media/Aldhabi.28f9841a4f2619850400.ttf",
     "static/media/product.jpg": "/Spicy-Food/static/media/product.ee46ae3c9e79e1869701.jpg",
@@ -40,12 +40,12 @@
     "static/media/story2.jpeg": "/Spicy-Food/static/media/story2.7316817faa20ff92f86f.jpeg",
     "static/media/story3.jpeg": "/Spicy-Food/static/media/story3.7316817faa20ff92f86f.jpeg",
     "index.html": "/Spicy-Food/index.html",
-    "main.1525f1e3.css.map": "/Spicy-Food/static/css/main.1525f1e3.css.map",
-    "main.4b250312.js.map": "/Spicy-Food/static/js/main.4b250312.js.map",
+    "main.bd95db30.css.map": "/Spicy-Food/static/css/main.bd95db30.css.map",
+    "main.c18ebd10.js.map": "/Spicy-Food/static/js/main.c18ebd10.js.map",
     "453.091f7659.chunk.js.map": "/Spicy-Food/static/js/453.091f7659.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1525f1e3.css",
-    "static/js/main.4b250312.js"
+    "static/css/main.bd95db30.css",
+    "static/js/main.c18ebd10.js"
   ]
 }
