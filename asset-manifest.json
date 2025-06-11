@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "/spicy-food/static/css/main.895070a8.css",
-    "main.js": "/spicy-food/static/js/main.3167e795.js",
+    "main.css": "/spicy-food/static/css/main.50047179.css",
+    "main.js": "/spicy-food/static/js/main.32d3e873.js",
     "static/js/453.091f7659.chunk.js": "/spicy-food/static/js/453.091f7659.chunk.js",
     "static/media/Aldhabi.ttf": "/spicy-food/static/media/Aldhabi.28f9841a4f2619850400.ttf",
     "static/media/product.jpg": "/spicy-food/static/media/product.ee46ae3c9e79e1869701.jpg",
     "static/media/Bags.png": "/spicy-food/static/media/Bags.180371d1b7d68c798283.png",
     "static/media/bg5.jpg": "/spicy-food/static/media/bg5.e27994abbbb980526d8c.jpg",
+    "static/media/high-angle-asian-food-background.jpg": "/spicy-food/static/media/high-angle-asian-food-background.7136762a57a7145b01c2.jpg",
     "static/media/story1.jpeg": "/spicy-food/static/media/story1.880895962a408d9878f3.jpeg",
     "static/media/bg3.jpg": "/spicy-food/static/media/bg3.9817cf1151229a622917.jpg",
     "static/media/bg4.jpg": "/spicy-food/static/media/bg4.18277216af4831e8e908.jpg",
@@ -39,13 +40,15 @@
     "static/media/logo.png": "/spicy-food/static/media/logo.41516c75c96dab51a932.png",
     "static/media/story2.jpeg": "/spicy-food/static/media/story2.7316817faa20ff92f86f.jpeg",
     "static/media/story3.jpeg": "/spicy-food/static/media/story3.7316817faa20ff92f86f.jpeg",
+    "static/media/instagram.png": "/spicy-food/static/media/instagram.2c372c5df3905655a49d.png",
+    "static/media/facebook.png": "/spicy-food/static/media/facebook.0848d3fe0d1ce2e852b3.png",
     "index.html": "/spicy-food/index.html",
-    "main.895070a8.css.map": "/spicy-food/static/css/main.895070a8.css.map",
-    "main.3167e795.js.map": "/spicy-food/static/js/main.3167e795.js.map",
+    "main.50047179.css.map": "/spicy-food/static/css/main.50047179.css.map",
+    "main.32d3e873.js.map": "/spicy-food/static/js/main.32d3e873.js.map",
     "453.091f7659.chunk.js.map": "/spicy-food/static/js/453.091f7659.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.895070a8.css",
-    "static/js/main.3167e795.js"
+    "static/css/main.50047179.css",
+    "static/js/main.32d3e873.js"
   ]
 }
