@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/spicy-food/static/css/main.e9da62c6.css",
-    "main.js": "/spicy-food/static/js/main.a968455b.js",
+    "main.js": "/spicy-food/static/js/main.d9f60191.js",
     "static/js/453.091f7659.chunk.js": "/spicy-food/static/js/453.091f7659.chunk.js",
     "static/media/Aldhabi.ttf": "/spicy-food/static/media/Aldhabi.28f9841a4f2619850400.ttf",
     "static/media/product.jpg": "/spicy-food/static/media/product.ee46ae3c9e79e1869701.jpg",
@@ -44,11 +44,11 @@
     "static/media/facebook.png": "/spicy-food/static/media/facebook.0848d3fe0d1ce2e852b3.png",
     "index.html": "/spicy-food/index.html",
     "main.e9da62c6.css.map": "/spicy-food/static/css/main.e9da62c6.css.map",
-    "main.a968455b.js.map": "/spicy-food/static/js/main.a968455b.js.map",
+    "main.d9f60191.js.map": "/spicy-food/static/js/main.d9f60191.js.map",
     "453.091f7659.chunk.js.map": "/spicy-food/static/js/453.091f7659.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e9da62c6.css",
-    "static/js/main.a968455b.js"
+    "static/js/main.d9f60191.js"
   ]
 }
