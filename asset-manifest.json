@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/spicy-food/static/css/main.e9da62c6.css",
-    "main.js": "/spicy-food/static/js/main.d9f60191.js",
+    "main.css": "/spicy-food/static/css/main.667cdff3.css",
+    "main.js": "/spicy-food/static/js/main.aa62645f.js",
     "static/js/453.091f7659.chunk.js": "/spicy-food/static/js/453.091f7659.chunk.js",
     "static/media/Aldhabi.ttf": "/spicy-food/static/media/Aldhabi.28f9841a4f2619850400.ttf",
     "static/media/product.jpg": "/spicy-food/static/media/product.ee46ae3c9e79e1869701.jpg",
@@ -29,6 +29,7 @@
     "static/media/seven spices.jpg": "/spicy-food/static/media/seven spices.0d6fa58beb50ac59e566.jpg",
     "static/media/seafood.jpg": "/spicy-food/static/media/seafood.a7f56e40b6db6ad7f947.jpg",
     "static/media/lemon pepper.jpg": "/spicy-food/static/media/lemon pepper.f2d065cc01291527517f.jpg",
+    "static/media/About us - 3rd picture - Turmeric.jpg": "/spicy-food/static/media/About us - 3rd picture - Turmeric.d488c3c1e7f95e752adc.jpg",
     "static/media/mexican.jpg": "/spicy-food/static/media/mexican.3da1a4aa0aa7e0041c0b.jpg",
     "static/media/white pepper.jpg": "/spicy-food/static/media/white pepper.8694ec0396d7d854b130.jpg",
     "static/media/Sachet.png": "/spicy-food/static/media/Sachet.58aacc47a10d0bb4540c.png",
@@ -39,16 +40,15 @@
     "static/media/blackP.png": "/spicy-food/static/media/blackP.44d7463ff800968a7cf4.png",
     "static/media/logo.png": "/spicy-food/static/media/logo.41516c75c96dab51a932.png",
     "static/media/story2.jpeg": "/spicy-food/static/media/story2.7316817faa20ff92f86f.jpeg",
-    "static/media/story3.jpeg": "/spicy-food/static/media/story3.7316817faa20ff92f86f.jpeg",
     "static/media/instagram.png": "/spicy-food/static/media/instagram.2c372c5df3905655a49d.png",
     "static/media/facebook.png": "/spicy-food/static/media/facebook.0848d3fe0d1ce2e852b3.png",
     "index.html": "/spicy-food/index.html",
-    "main.e9da62c6.css.map": "/spicy-food/static/css/main.e9da62c6.css.map",
-    "main.d9f60191.js.map": "/spicy-food/static/js/main.d9f60191.js.map",
+    "main.667cdff3.css.map": "/spicy-food/static/css/main.667cdff3.css.map",
+    "main.aa62645f.js.map": "/spicy-food/static/js/main.aa62645f.js.map",
     "453.091f7659.chunk.js.map": "/spicy-food/static/js/453.091f7659.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e9da62c6.css",
-    "static/js/main.d9f60191.js"
+    "static/css/main.667cdff3.css",
+    "static/js/main.aa62645f.js"
   ]
 }
