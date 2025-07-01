@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/spicy-food/static/css/main.6b16badf.css",
-    "main.js": "/spicy-food/static/js/main.4350b4ee.js",
+    "main.css": "/spicy-food/static/css/main.885eecbb.css",
+    "main.js": "/spicy-food/static/js/main.4205337b.js",
     "static/js/453.091f7659.chunk.js": "/spicy-food/static/js/453.091f7659.chunk.js",
     "static/media/Sumac.png": "/spicy-food/static/media/Sumac.ff6a8c5a3d8251b8c1a1.png",
     "static/media/Powders-Background.jpg": "/spicy-food/static/media/Powders-Background.02e6bbde1be553a8cfc8.jpg",
@@ -43,12 +43,12 @@
     "static/media/Turmeric - About Us.jpg": "/spicy-food/static/media/Turmeric - About Us.a8b77efcc23102973971.jpg",
     "static/media/facebook.png": "/spicy-food/static/media/facebook.0848d3fe0d1ce2e852b3.png",
     "index.html": "/spicy-food/index.html",
-    "main.6b16badf.css.map": "/spicy-food/static/css/main.6b16badf.css.map",
-    "main.4350b4ee.js.map": "/spicy-food/static/js/main.4350b4ee.js.map",
+    "main.885eecbb.css.map": "/spicy-food/static/css/main.885eecbb.css.map",
+    "main.4205337b.js.map": "/spicy-food/static/js/main.4205337b.js.map",
     "453.091f7659.chunk.js.map": "/spicy-food/static/js/453.091f7659.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6b16badf.css",
-    "static/js/main.4350b4ee.js"
+    "static/css/main.885eecbb.css",
+    "static/js/main.4205337b.js"
   ]
 }
