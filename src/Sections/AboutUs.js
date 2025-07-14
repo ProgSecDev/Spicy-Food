@@ -48,12 +48,6 @@ function Story() {
             >
               About Us
             </h1>
-            <h2
-              className="text-white text-4xl md:text-6xl"
-              style={{ fontFamily: "Aldhabi, cursive" }}
-            >
-              SPICY FOOD
-            </h2>
             <p
               className="text-white mt-6"
               style={{
@@ -61,7 +55,7 @@ function Story() {
                 fontWeight: 100,
               }}
             >
-              Founded in 2000 in the heart of Lebanon, our company has been
+              <span className="font-bold text-3xl">Spicy Food</span> founded in 2000 in the heart of Lebanon, our company has been
               dedicated to crafting premium-quality spices that embody the rich
               flavors and culinary heritage of the region. With a passion for
               excellence and a commitment to authenticity, we have grown to

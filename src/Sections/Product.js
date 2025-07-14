@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import backgroundImage from "../assets/Banners/product.jpg";
 import powdersbackground from '../assets/Our Products/Powders-Background.jpg';
+import zaatarandkishebackground from '../assets/Banners/Zaatar-and-Kishek-BG.jpg';
 import chickenC from '../assets/Our Products/Blends/chickenC.png';
 import chicken from '../assets/Our Products/Blends/20250629/Chicken Seasoning.png';
 import italian from '../assets/Our Products/Blends/20250629/Italian Seasoning.png';
@@ -64,7 +65,7 @@ function Product() {
     { name: "Lemon Pepper Blend", description: "Turmeric, Black Pepper, Citric Acid, Salt, Dried Lime.", image: lemonpepper }
   ];
 
-  const productsRight = [
+  const productsCenter = [
     { name: "Turmeric", description: "", image: turmeric },
     { name: "Red Chili", description: "", image: redchilli },
     { name: "Cinnamon", description: "", image: cinnamon },
@@ -80,9 +81,15 @@ function Product() {
     { name: "Kishek", description: "Dried Yogurt, Salt, Bulgur, Wheat.", image: kishek }
   ];
 
+  const productsRight = [
+    { name: "Zaatar", description: "Thyme, Sumac, Salt, Sesame.", image: zaatar },
+    { name: "Kishek", description: "Dried Yogurt, Salt, Bulgur, Wheat.", image: kishek }
+  ];
+
   const groups = [
-    { id: "Blend 1", title: "BLENDS", data: productsLeft, image: chickenC },
-    { id: "Powder 1", title: "POWDERS", data: productsRight, image: blackP }
+    { id: "Blend 1", title: "SPECIAL BLENDS", data: productsLeft, image: chickenC },
+    { id: "Powder 1", title: "SINGLE SPICES", data: productsCenter, image: blackP },
+    { id: "zaatar 1", title: "ZAATAR AND KISHEK", data: productsRight, image: kishek }
   ];
 
   const handleCategoryClick = (id) => setSelectedId(id);
@@ -117,7 +124,17 @@ function Product() {
 
       <AnimatePresence>
         {selectedId && (
-          <motion.div layoutId={selectedId} className="fixed inset-0 z-50 flex flex-col justify-start items-start p-4 md:p-6 overflow-y-auto" style={{ backgroundImage: `url(${powdersbackground})`, backgroundSize: "cover", backgroundPosition: "center", backgroundRepeat: "no-repeat" }}>
+          <motion.div
+  layoutId={selectedId}
+  className="fixed inset-0 z-50 flex flex-col justify-start items-start p-4 md:p-6 overflow-y-auto"
+  style={{
+  backgroundImage: `url(${selectedGroup?.id?.toLowerCase().includes("zaatar") ? zaatarandkishebackground : powdersbackground})`,
+  backgroundSize: "cover",
+  backgroundPosition: "center",
+  backgroundRepeat: "no-repeat"
+}}
+
+>
             <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-6 w-full">
               {selectedProducts.map((prod, i) => (
                 <div key={i} className="flex flex-col items-center text-center gap-2 mt-4 p-1 border rounded shadow-sm bg-white hover:scale-105 hover:z-10 transform transition duration-300 max-h-[350px] max-w-[350px]">

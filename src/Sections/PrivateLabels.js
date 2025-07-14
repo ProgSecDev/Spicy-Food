@@ -14,7 +14,7 @@ function PrivateLabels() {
     { id: "Label A1", title: "JAR", mainImage: jar },
     { id: "Label B1", title: "BAGS", mainImage: bags },
     { id: "Label C1", title: "SACHET", mainImage: sachet },
-    { id: "Label D1", title: "Silver Vaccum BAG", mainImage: vaccumbag },
+    { id: "Label D1", title: "ALUMINUM BAG", mainImage: vaccumbag },
   ];
 
   return (

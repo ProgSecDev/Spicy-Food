@@ -30,7 +30,7 @@ function Footer() {
         <div className="flex flex-col items-center justify-center -translate-y-10">
           <img src={logo} alt="Logo" className="w-80 h-auto" />
           <div className="text-white text-sm -mt-4 text-center -translate-y-12">
-            © {new Date().getFullYear()} Designed By AdmireLB. All rights
+            © {new Date().getFullYear()} Designed By admirelb. All rights
             reserved.
           </div>
         </div>
@@ -79,7 +79,7 @@ function Footer() {
             className="flex items-center space-x-2 hover:underline"
           >
             <FontAwesomeIcon icon={faMapMarkerAlt} className="text-xl" />
-            <span className="text-lg font-semibold">Khaldeh, Lebanon</span>
+            <span className="text-lg font-semibold">Naameh, Lebanon</span>
           </a>
 
           <a
