@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/spicy-food/static/css/main.7d57073a.css",
-    "main.js": "/spicy-food/static/js/main.9c4abd79.js",
+    "main.css": "/spicy-food/static/css/main.ad3addda.css",
+    "main.js": "/spicy-food/static/js/main.88a62691.js",
     "static/js/453.091f7659.chunk.js": "/spicy-food/static/js/453.091f7659.chunk.js",
     "static/media/Sumac.png": "/spicy-food/static/media/Sumac.ff6a8c5a3d8251b8c1a1.png",
     "static/media/Powders-Background.jpg": "/spicy-food/static/media/Powders-Background.02e6bbde1be553a8cfc8.jpg",
     "static/media/Aldhabi.ttf": "/spicy-food/static/media/Aldhabi.28f9841a4f2619850400.ttf",
+    "static/media/Zaatar-and-Kishek-BG.jpg": "/spicy-food/static/media/Zaatar-and-Kishek-BG.86d0b7991f6e3a2a9702.jpg",
     "static/media/product.jpg": "/spicy-food/static/media/product.ee46ae3c9e79e1869701.jpg",
     "static/media/Zaatar.png": "/spicy-food/static/media/Zaatar.033d99af362693c5d4d9.png",
     "static/media/Red Chili Powder.png": "/spicy-food/static/media/Red Chili Powder.960e070c4a312226034c.png",
@@ -43,12 +44,12 @@
     "static/media/Turmeric - About Us.jpg": "/spicy-food/static/media/Turmeric - About Us.a8b77efcc23102973971.jpg",
     "static/media/facebook.png": "/spicy-food/static/media/facebook.0848d3fe0d1ce2e852b3.png",
     "index.html": "/spicy-food/index.html",
-    "main.7d57073a.css.map": "/spicy-food/static/css/main.7d57073a.css.map",
-    "main.9c4abd79.js.map": "/spicy-food/static/js/main.9c4abd79.js.map",
+    "main.ad3addda.css.map": "/spicy-food/static/css/main.ad3addda.css.map",
+    "main.88a62691.js.map": "/spicy-food/static/js/main.88a62691.js.map",
     "453.091f7659.chunk.js.map": "/spicy-food/static/js/453.091f7659.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7d57073a.css",
-    "static/js/main.9c4abd79.js"
+    "static/css/main.ad3addda.css",
+    "static/js/main.88a62691.js"
   ]
 }
