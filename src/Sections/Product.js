@@ -137,10 +137,10 @@ function Product() {
 >
             <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-6 w-full">
               {selectedProducts.map((prod, i) => (
-                <div key={i} className="flex flex-col items-center text-center gap-2 mt-4 p-1 border rounded shadow-sm bg-white hover:scale-105 hover:z-10 transform transition duration-300 max-h-[350px] max-w-[350px]">
+                <div key={i} className="flex flex-col items-center text-center gap-2 mt-4 p-1 border rounded shadow-sm bg-white hover:scale-105 hover:z-10 transform transition duration-300 h-96 max-h-[350px] max-w-[350px]">
                   <motion.img src={prod.image} alt={prod.name} className="w-30 h-60 object-contain rounded-lg" />
                   <motion.h2 className="text-lg font-semibold text-black" style={{ fontFamily: "Square 721 Bold BT", ...titleStyles[prod.name] }}>{prod.name}</motion.h2>
-                  <motion.p className="text-sm text-gray-700">{prod.description}</motion.p>
+                  <motion.p className="text-sm text-gray-700 -mt-2">{prod.description}</motion.p>
                 </div>
               ))}
             </div>
