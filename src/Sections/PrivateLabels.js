@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { motion } from "framer-motion";
 import backgroundImage from "../assets/Banners/product.jpg";
 import bags from '../assets/Private Labels/Bags.png';
-import jar from '../assets/Private Labels/Jar.png';
+import jar from '../assets/Private Labels/Steak Seasoning.png';
 import sachet from '../assets/Private Labels/Sachet.png';
 import vaccumbag from '../assets/Private Labels/Vaccum bag.png';
 
@@ -45,13 +45,17 @@ function PrivateLabels() {
                 layoutId={id}
                 className="flex flex-row items-center text-left p-4 rounded-lg cursor-default h-full space-x-6"
               >
-                <div className="w-[150px] h-[220px] flex-shrink-0 overflow-hidden">
-                  <img
-                    src={mainImage}
-                    alt={title}
-                    className="w-full h-full object-cover"
-                  />
-                </div>
+                <div
+  className={`${
+    title === "JAR" ? "w-[180px] h-[280px]" : "w-[150px] h-[220px]"
+  } flex-shrink-0 overflow-hidden`}
+>
+  <img
+    src={mainImage}
+    alt={title}
+    className="w-full h-full object-cover"
+  />
+</div>
                 <motion.h2
                   layoutId={`title-${id}`}
                   className="text-3xl"
